@@ -71,7 +71,10 @@ The primary objective of this project is to:
 - This step ensures consistency in values for future analysis.
 
 ---
+## 7. Saved the cleaned data in the desktop
+- Saved the file in the desktop using '.to_csv()' 
 
+---
 ## ✅ Final Output
 
 After cleaning, the dataset is now:
@@ -81,7 +84,7 @@ After cleaning, the dataset is now:
 - **Properly formatted datetime fields**
 - **Checked for duplicates**
 - **Consistent and analysis-ready**
-
+- **Saved the cleaned data in Desktop**
 ---
 
 ## 📌 Tools & Technologies Used
@@ -129,6 +132,4 @@ netflix_data_cleaning/
 
 ## 📬 Contact
 
-- 📧 Email: yourname@example.com
-- 🔗 LinkedIn: [Your LinkedIn Profile](#)
-- 💻 Portfolio: [Your Portfolio Website](#)
+- 📧 Email: anuragsharma200078690@gmail.com
