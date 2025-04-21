@@ -93,8 +93,7 @@ After cleaning, the dataset is now:
 |-------------|----------------------------------------|
 | Python      | Programming language                   |
 | Pandas      | Data manipulation & cleaning           |
-| Jupyter / PyCharm | IDE for writing and executing code |
-| NumPy       | (Implicitly used via Pandas)           |
+|PyCharm | IDE for writing and executing code          |
 
 ---
 
